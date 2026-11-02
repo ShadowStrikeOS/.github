@@ -4,7 +4,7 @@
 
 ShadowStrikeOS is the home of ShadowStrike OS, my custom security-focused Linux distribution for penetration testing and security research.
 
-By Gavin Blacklock ([@Epsilon0xCell](https://github.com/Epsilon0xCell)).
+By Gavin Blacklock (Gavin K.) ([@Epsilon0xCell](https://github.com/Epsilon0xCell)).
 
 
 ## The Evidence
